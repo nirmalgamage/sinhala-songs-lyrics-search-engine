@@ -15,3 +15,7 @@
 
  **Run Demo using Program**
  - Load the `index.html` file , located in the Program folder using a browser.(Google chrome is recommended)
+ 
+ 
+ 
+ ![alt text](https://github.com/nirmalgamage/sinhala-songs-lyrics-search-engine/blob/master/program%20flow.jpg?raw=true)
