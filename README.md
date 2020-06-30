@@ -2,7 +2,7 @@
 ## Follow the below given instructions accordingly to setup configurations.
 
  setting up elasticsearch server..
-##### 1.) First, install the Elasticsearch engine. (version `7.6.0` is preferred)
+##### - First, install the Elasticsearch engine. (version `7.6.0` is preferred)
 ##### 2.) Locate the elasticsearch.bat file in `/bin` folder and run the file. ( go to localhost:9200 to check if the server has started)
 
  creating index "sindu" in elastisearch server..
