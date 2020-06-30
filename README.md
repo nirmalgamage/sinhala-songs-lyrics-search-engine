@@ -18,11 +18,13 @@
  
  
  
- Following Images demonstrates the flow of the program and its abilities.
+ **Following Images demonstrate the flow of the program and its abilities.**
  
  **Picture 1**
+ 
  ![alt text](https://github.com/nirmalgamage/sinhala-songs-lyrics-search-engine/blob/master/Program-Flow1.jpg?raw=true)
 
 
 **Picture 2**
+
  ![alt text](https://github.com/nirmalgamage/sinhala-songs-lyrics-search-engine/blob/master/Program-Flow2.jpg?raw=true)
