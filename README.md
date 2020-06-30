@@ -7,7 +7,7 @@
 
  **creating index "sindu" in elastisearch server..**
  - Run the `create_index.py` file which is located in `Setup-backend` folder using following command.  
-       > python create_index.py
+      > python create_index.py
 
  **insert data to the index..**
  - Run `insert_data.py` file, located in `Setup-backend` folder using following command.(songs_data.json file must be located in the same directory).
