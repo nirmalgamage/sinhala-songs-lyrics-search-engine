@@ -39,7 +39,7 @@ for num, doc in enumerate(docs):
         doc_list += [dict_doc]
 
     except json.decoder.JSONDecodeError as err:
-    # print the errors
+    # print the errors-
         print ("ERROR for num:", num, "-- JSONDecodeError:", err, "for doc:", doc)
 
         print ("Dict docs length:", len(doc_list))
