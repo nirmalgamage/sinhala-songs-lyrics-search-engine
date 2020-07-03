@@ -30,5 +30,5 @@
  ![alt text](https://github.com/nirmalgamage/sinhala-songs-lyrics-search-engine/blob/master/Program-Flow2.jpg?raw=true)
 
 **Picture 3**
-Below given are some of the queries used to retrieve songs
-![alt text](https://github.com/nirmalgamage/sinhala-songs-lyrics-search-engine/blob/master/Program-Flow3.jpg?raw=true)
+
+![alt text](https://github.com/nirmalgamage/sinhala-songs-lyrics-search-engine/blob/master/Program_Flow3.jpg?raw=true)
