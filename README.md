@@ -1,5 +1,6 @@
 ### Sinhala Songs Lyrics Search Engine-
-## Follow the below given instructions accordingly to setup configurations.
+### Follow the below given instructions accordingly to setup configurations.
+### I have used python files to indexing and inserting data to database. All querying mechanisms are implemented in the JavaScript file located in Program/js folder.
 
  **setting up elasticsearch server..**
  - First, install the Elasticsearch engine. (version `7.6.0` is preferred)
@@ -30,5 +31,5 @@
  ![alt text](https://github.com/nirmalgamage/sinhala-songs-lyrics-search-engine/blob/master/Program-Flow2.jpg?raw=true)
 
 **Picture 3**
-Below given are some quiries used to retrieve songs.
+Below given are some queries used to retrieve songs.
 ![alt text](https://github.com/nirmalgamage/sinhala-songs-lyrics-search-engine/blob/master/Program_Flow3.jpg?raw=true)
